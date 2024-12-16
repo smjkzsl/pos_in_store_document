@@ -1,0 +1,13 @@
+site_name: POS IN STORE 文档
+site_url: ""
+use_directory_urls: false
+plugins: []
+extra_css:
+    - css/css.css
+
+nav:
+    - 自我介绍: index.md
+     
+theme: 
+  name: readthedocs
+  # locale: zh
